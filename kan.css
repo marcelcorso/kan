@@ -1,0 +1,11 @@
+div {
+  position: absolute;
+}
+
+div.line {
+  background-color: black;
+}
+
+div.circle {
+  border-radius: 50%;
+}
